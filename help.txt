@@ -1,0 +1,9 @@
+types:
+3 - sb
+2 - bb
+11 - fold
+8 - pfr/bet
+7 - call
+0 - check
+9 - next card
+16 - collect bet back
